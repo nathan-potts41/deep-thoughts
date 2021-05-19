@@ -11,7 +11,6 @@
   - [Usage](#usage)
   - [Technology](#technology)
   - [Contributing](#contributing)
-  - [Tests](#tests)
   - [Questions](#questions)
   - [About](#about)
 
@@ -19,7 +18,7 @@
   Installation is not required for application use.   
 
   ## Usage
-  Deep Thoughts is a social messaging forum. The user is able to create a profile, add friends, and post messages to a global board. A user is also able to respond to posts created by friends or other users. 
+  Deep Thoughts is a social messaging forum. The user is able to create a profile, add friends, and post messages to a global board. A user is also able to respond   to posts created by friends or other users. 
 
   ## Technology
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -35,7 +34,6 @@
   GitHub: http://www.github.com/nathan-potts41
 
   ## About 
-
   Nathan Potts
   nathan-potts41  
   nathan.potts41@gmail.com  

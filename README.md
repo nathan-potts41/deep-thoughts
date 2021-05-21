@@ -10,6 +10,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Technology](#technology)
+  - [Screenshots](#screenshots)
   - [Contributing](#contributing)
   - [Questions](#questions)
   - [About](#about)
@@ -27,7 +28,7 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
-
+       
   ## Questions
   If you have any questions, feel free to reach out to me at my email!   
   Email: nathan.potts41@gmail.com  
